@@ -5,6 +5,7 @@
 > Especially in module 4. It`s very interesting and useful commands which you need know if you want to be a programmer.
 
 **Screenshots:
+
 ![1:](task_linux_cli/photo_2019-09-19_23-14-37.jpg)
 ![2:](task_linux_cli/photo_2019-09-19_23-14-31.jpg)
 ![3:](task_linux_cli/photo_2019-09-19_23-14-25.jpg)
@@ -22,3 +23,17 @@
 
 ![1:](task_git_collaboration/photo_2019-09-21_16-44-01.jpg)
 ![2:](task_git_collaboration/photo_2019-09-21_16-44-35.jpg)
+
+## Intro to HTML and CSS
+**Reflections
+
+> Passing this courses were very interested, especially on [HTML Academy](https://htmlacademy.ru/).
+> I improved my skills in HTML and CSS. 
+> Also i learned more about Cascading Order and Inheritance in CSS. 
+> This courses were very usefull for me. 
+
+**Screenshots:
+
+![1:](task_html_css_intro/photo_2019-09-22_21-41-20.jpg)
+![2:](task_html_css_intro/photo_2019-09-22_21-38-55.jpg)
+![3:](task_html_css_intro/photo_2019-09-22_21-40-23.jpg)
