@@ -37,3 +37,16 @@
 ![1:](task_html_css_intro/photo_2019-09-22_21-41-20.jpg)
 ![2:](task_html_css_intro/photo_2019-09-22_21-38-55.jpg)
 ![3:](task_html_css_intro/photo_2019-09-22_21-40-23.jpg)
+
+## Responsive Web Design
+**Reflections
+
+> This lesson gave me a lot of usefull information about Responsive Web Design.
+> I learned a lot of informative features and i realy want use them.
+> Also i improved my skills in HTML and CSS. Especially i liked guide to Flexbox. 
+> This lesson was for me very interesting and i tried as best as possible learned all.
+
+**Screenshots:
+
+![1:](task_responsive_web_design/photo_2019-09-26_19-50-16.jpg)
+![2:](task_responsive_web_design/photo_2019-09-26_21-22-22.jpg)
