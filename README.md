@@ -50,3 +50,18 @@
 
 ![1:](task_responsive_web_design/photo_2019-09-26_19-50-16.jpg)
 ![2:](task_responsive_web_design/photo_2019-09-26_21-22-22.jpg)
+
+
+## HTML & CSS Practice
+**Reflections
+
+> This practice was very useful for me, i realy learn a lot of new features with HTML and CSS.
+> For instance, how track click event without JS, use navigation by `nav`and etc.
+
+> Before the start of this lesson, I didn’t know some things, but after it I realize grown in terms of mind.
+
+Reviewed and approved by @<[A-Ostrovnyy](https://github.com/A-Ostrovnyy)>
+
+[Demo](https://karelskiy.github.io/close-task-HTML-CSS-practice/)
+
+[Code base](https://github.com/karelskiy/close-task-HTML-CSS-practice).
